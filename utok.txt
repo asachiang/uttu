@@ -1,4 +1,34 @@
+YOUTUBE油管新聞,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森新聞,https://www.youtube.com/live/V1p33hqPrUk?si=byEUmKUYKqQEFU0N
 
+中天新聞,https://www.youtube.com/live/vr3XyVCR4T0?si=9quWZdOTvptvP-hO
+三立新聞,https://www.youtube.com/live/MV9mI0GChwo?si=MhyFZd9z_E3aEoap
+
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+公視新聞,https://www.youtube.com/live/quwqlazU-c8?si=upEckq1Ddm39bu2T
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw?si=jtvM5Ur3KrhYT14q
+
+鳳凰衛視資訊台,https://www.youtube.com/live/HFib76ySpbU?si=9SKGJ-OjHVGxDO40
+
+无线星河频道,http://113.64.145.55:8081/hls/135/index.m3u8
+
+香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+
+<
 💝Litv频道👉全网,#genre#
 tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073

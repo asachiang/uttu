@@ -25,7 +25,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
 香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
+https://raw.githubusercontent.com/asachiang/uttu/refs/heads/main/utok.txt
 💝中国港澳👉天天,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』

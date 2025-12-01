@@ -14,7 +14,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 公視新聞,https://www.youtube.com/live/quwqlazU-c8?si=upEckq1Ddm39bu2T
-
+TVBS,https://4gtvmobile-mozai.4gtv.tv/iS-_9lM5ikF3_4LTkpumgZ4JKbvwDa4UYrCtILZwxNw%3d/index.m3u8?token=XtFAhkys9qRDIvSgGymEgw&expires=1764623408&token1=-Kaj8BlNPvHH27gEAkr0bw&expires1=1764623408&refer=NjQ1NzU3NmMtZGVhNS00MDI0LWI5OTgtYjA4ZGNhYTA1NTlm&y=0
+民視第一台,https://4gtvmobile-mozai.4gtv.tv/J0BNPTUxpdaIwkecoGhFiPFZUNs2TeNLLURcU_RsQIU%3d/index.m3u8?token=HxHd_Md_R9hx94VNbEj15Q&expires=1764622935&token1=t1hubJaSB6kOZTOqTBbhng&expires1=1764622935&refer=NDFjMzI3ZjctYzI3YS00YTdlLWIwOGUtNTQ4NTZiNTcyNThi&y=0
+民視台灣台,https://4gtvmobile-mozai.4gtv.tv/8HTUIqGmeuLw54ATeyohszOUaUVkpqdbsL8wBe0z5RY%3d/index.m3u8?token=uX1eEuvaKreVdQGY3QEg-Q&expires=1764622945&token1=144wX4KSXKHFXAjLvHt_7Q&expires1=1764622945&refer=YTZkNThhMDYtNTZiZC00ZDA5LTg0M2UtZDI5OGNjZGYyZjFl&y=0
+民視,https://4gtvmobile-mozai.4gtv.tv/ojOMf80e9SnAwR4UcH5vqSnyIhbSVs0u6Y-1gRcjtNE%3d/index.m3u8?token=YVEwp-GNfnJd4EkGJ6xlrA&expires=1764622954&token1=SW9hy5AkLQCP6maN4w9gog&expires1=1764622954&refer=OTU4MTg3NTctY2QzYi00ODdlLWE5NGYtZjZiMDA0ODg4NzUx&y=0
 鳳凰衛視資訊台,https://www.youtube.com/live/HFib76ySpbU?si=9SKGJ-OjHVGxDO40
 
 
